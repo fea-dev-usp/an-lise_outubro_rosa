@@ -67,12 +67,10 @@ pip install pandas geopandas matplotlib plotly
 
 Confira os resultados das análises nos arquivos Jupyter Notebook (.ipynb) disponíveis neste repositório e na [publicação feita no Instagram do FEA.dev]()!
 
-<!--
 ## Créditos
 
-* [Gabriel Finamore](https://github.com/gfinamore)
-* [Vinicius Pereira](https://github.com/viniciuspereira369)
-* [Ygor Ronnan](https://github.com/ygorronnan)
-* [Julia Babam](https://github.com/juliababam)
-* [Amabile Nunes](https://github.com/mabibis)
--->
+* [Luisa Ribas](https://github.com/luisaribas)
+* [Luane Miranda](https://github.com/luanemiranda)
+* [Emmanuelita Emmanuel](https://github.com/EmmanuelitaEmmanuel)
+* [Amanda Yamasaki](https://github.com/amandaey)
+
